@@ -8,6 +8,7 @@ public class TestGit {
         System.out.println("试验git");
         System.out.println("试验pull，修改一下尼？");
         System.out.println("冲突处理完了");
+        System.out.println("试验pull按钮");
         System.out.println("创建分支feature1");
     }
 }
