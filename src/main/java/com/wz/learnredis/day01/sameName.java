@@ -1,5 +1,7 @@
 package com.wz.learnredis.day01;
 
 public class sameName {
-    String str = "1的新建文件a";
+    public static void main(String[] args) {
+        System.out.println("切换本地分支");
+    }
 }
