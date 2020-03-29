@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("冲突处理完了");
         System.out.println("试验pull按钮");//处理冲突了
         System.out.println("创建分支feature1");//处理冲突了
+        int a = 1;
     }
 }
